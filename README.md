@@ -1,7 +1,7 @@
 # An-experimental-approach-to-ecosystem-engineers-and-biodiversity
 R script for the study "An experimental approach to assessing the impact of ecosystem engineers on biodiversity and ecosystem functions" published in Ecology by Gianalberto Losapio and colleagues
 
-losapio_ecology2020.R = Code to reproduce the analyses and plot
+losapio_ecology2020.R = Code to reproduce the analyses and plots
 
 losapio_ecology20.RData = R working space
 
