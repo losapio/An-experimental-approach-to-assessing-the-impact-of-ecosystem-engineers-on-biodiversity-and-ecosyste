@@ -7,7 +7,7 @@ losapio_ecology20.RData = R working space
 
 insect.record.csv = sampling dataset of plant-insect interactions
 
-sndata.csv = dataframe with summary data of plant-insect interactiomns
+sndata.csv = dataframe with summary data of plant-insect interactions
 
 diversity_3200.csv = sampling dataset of plant-plant facilitation
 
